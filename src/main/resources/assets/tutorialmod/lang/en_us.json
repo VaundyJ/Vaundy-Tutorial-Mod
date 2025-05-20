@@ -1,12 +1,13 @@
 {
-  "item.tutorialmod.silver": "Silver",
+
   "item.tutorialmod.raw_silver": "Raw Silver",
+  "item.tutorialmod.silver": "Silver",
   "item.tutorialmod.silverbolt": "Silver Bolt",
 
-  "block.tutorialmod.silver_block": "Block of Silver",
   "block.tutorialmod.silver_ore": "Silver Ore",
   "block.tutorialmod.deepslate_silver_ore": "Deepslate Silver Ore",
-  "block.tutorialmod.raw_silver_block": "Raw Silver Block",
+  "block.tutorialmod.raw_silver_block": "Block of Raw Silver",
+  "block.tutorialmod.silver_block": "Block of Silver",
 
   "itemgroup.tutorialmod.tutorial_mod_items": "Tutorial Mod"
 }
