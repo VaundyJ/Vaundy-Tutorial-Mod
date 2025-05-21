@@ -9,5 +9,7 @@
   "block.tutorialmod.raw_silver_block": "Block of Raw Silver",
   "block.tutorialmod.silver_block": "Block of Silver",
 
-  "itemgroup.tutorialmod.tutorial_mod_items": "Tutorial Mod"
+  "itemgroup.tutorialmod.tutorial_mod_items": "Tutorial Mod",
+
+  "tooltip.tutorialmod.silverbolt.tooltip": "§7§oSilver of the moon.§r§r"
 }
